@@ -1,0 +1,14 @@
+git config --global user.name "Ruchi Tiwari"
+
+git config --global user.email tiwariruchi@0690@gmail
+
+git init
+
+git status
+
+git add .
+git add folder/filename
+
+PS C:\Users\rruch\Desktop\LEARNING\Practice> git branch -M main
+PS C:\Users\rruch\Desktop\LEARNING\Practice> git remote add origin https://github.com/CodeByRuchi/CodeByRuchi.git
+PS C:\Users\rruch\Desktop\LEARNING\Practice> git push -u origin main
